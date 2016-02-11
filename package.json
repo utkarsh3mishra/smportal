@@ -1,0 +1,11 @@
+{
+  "name": "SMPORTAL",
+  "version": "1.0.0",
+  "description": "A webkiosk module for feedback and report generation with elective selection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunny Karira, Anant Gupta, Utkarsh Mishra, Nitish Bansal, Nikhil Soni",
+  "license": "ISC"
+}
