@@ -43,11 +43,13 @@ color: #1d1d1d !important;
 background-color: white;
 border-radius: 20px;
 }
-.header .cont{
-padding-top: 130px;	
-
-	
+.header .yoyo{
+	padding-top: 55px;
 }
+.header .cont{
+padding-top: 130px;		
+}
+
 .header .email{
 padding-bottom: 10px;
 
